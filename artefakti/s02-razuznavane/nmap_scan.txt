@@ -1,0 +1,7 @@
+Nmap scan report for 192.168.10.2
+Host is up (0.0032s latency).
+Not shown: 998 closed tcp ports (conn-refused)
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     OpenSSH 10.0p2 Debian 7+deb13u4 (protocol 2.0)
+8080/tcp open  http    Apache httpd 2.4.49 ((Unix))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
