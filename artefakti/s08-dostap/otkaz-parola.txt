@@ -1,0 +1,2 @@
+HTTP error - 400 Bad Request
+{"error":"invalidPasswordMinLengthMessage","error_description":"Invalid password: must be at least 12 characters long."}
